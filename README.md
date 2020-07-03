@@ -1,0 +1,2 @@
+# sequel
+Standalone SQL Interpreter
